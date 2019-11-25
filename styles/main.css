@@ -752,12 +752,23 @@ a {
   margin: 4px 8px;
 }
 
+      .sidebar {
+        width: 25%;
+      }
+      .main-container {
+        margin-left: 25%;
+      }
+    
       .sidebar .top-container .site-nav {
-        color: #1864ab;
+        color: #212529;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 2px;
       }
     
       body {
-        background: #1864ab;
+        background: #212529;
       }
     
       all fan
