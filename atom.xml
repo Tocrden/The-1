@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.Tocrden.cn</id>
-    <title>Tocrden</title>
-    <updated>2019-11-25T08:06:41.590Z</updated>
+    <title>Tocrden.</title>
+    <updated>2019-11-25T08:13:32.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.Tocrden.cn"/>
     <link rel="self" href="https://www.Tocrden.cn/atom.xml"/>
     <subtitle>为了遇见更好的自己🎈</subtitle>
     <logo>https://www.Tocrden.cn/images/avatar.png</logo>
     <icon>https://www.Tocrden.cn/favicon.ico</icon>
-    <rights>All rights reserved 2019, Tocrden</rights>
+    <rights>All rights reserved 2019, Tocrden.</rights>
 </feed>
